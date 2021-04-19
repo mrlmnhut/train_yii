@@ -1,6 +1,4 @@
 <?php
-require_once('debug-var.php');
-
 return [
 	'aliases'    => [
 		'@bower' => '@vendor/bower-asset',
